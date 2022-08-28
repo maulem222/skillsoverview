@@ -1,0 +1,444 @@
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\Vue_with_Single_File_Components.dll.config
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\Vue_with_Single_File_Components.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\Vue_with_Single_File_Components.pdb
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\csc.exe
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\csc.exe.config
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\csc.rsp
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\csi.exe
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\csi.exe.config
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\csi.rsp
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.AppContext.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Console.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Net.Http.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\vbc.exe
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\vbc.exe.config
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\vbc.rsp
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\Antlr3.Runtime.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\Newtonsoft.Json.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\System.Web.Optimization.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\WebGrease.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\System.Web.Optimization.xml
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\Newtonsoft.Json.xml
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\Antlr3.Runtime.pdb
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\obj\Debug\Vue_with_Single_File_Components.csprojAssemblyReference.cache
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\obj\Debug\Vue_with_Single_File_Components.csproj.CoreCompileInputs.cache
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\obj\Debug\Vue_with_Single_File_Components.csproj.CopyComplete
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\obj\Debug\Vue_with_Single_File_Components.dll
+C:\Users\Maurice\Documents\ASP.NET Vue_with_Single_File_Components\Vue_with_Single_File_Components\obj\Debug\Vue_with_Single_File_Components.pdb
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\Vue_with_Single_File_Components.dll.config
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\Vue_with_Single_File_Components.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\Vue_with_Single_File_Components.pdb
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\csc.exe
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\csc.exe.config
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\csc.rsp
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\csi.exe
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\csi.exe.config
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\csi.rsp
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.AppContext.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Console.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Net.Http.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\vbc.exe
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\vbc.exe.config
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\vbc.rsp
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\Antlr3.Runtime.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\Newtonsoft.Json.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\System.Web.Optimization.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\WebGrease.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\System.Web.Optimization.xml
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\Newtonsoft.Json.xml
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\Antlr3.Runtime.pdb
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\obj\Debug\Vue_with_Single_File_Components.csprojAssemblyReference.cache
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\obj\Debug\Vue_with_Single_File_Components.csproj.CoreCompileInputs.cache
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\obj\Debug\Vue_with_Single_File_Components.csproj.CopyComplete
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\obj\Debug\Vue_with_Single_File_Components.dll
+C:\Users\Maurice\Documents\ASP.NET Vue SFC CategoriesNested TreeView\Vue_with_Single_File_Components\obj\Debug\Vue_with_Single_File_Components.pdb
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\obj\Debug\Vue_with_Single_File_Components.csprojAssemblyReference.cache
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\obj\Debug\Vue_with_Single_File_Components.csproj.CoreCompileInputs.cache
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\obj\Debug\Vue_with_Single_File_Components.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\obj\Debug\Vue_with_Single_File_Components.pdb
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\Vue_with_Single_File_Components.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\Vue_with_Single_File_Components.pdb
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\csc.exe
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\csc.exe.config
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\csc.rsp
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\csi.exe
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\csi.exe.config
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\csi.rsp
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.AppContext.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Console.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Net.Http.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\vbc.exe
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\vbc.exe.config
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\vbc.rsp
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\Antlr3.Runtime.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\Newtonsoft.Json.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\System.Web.Optimization.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\WebGrease.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\System.Web.Optimization.xml
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\Newtonsoft.Json.xml
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\Antlr3.Runtime.pdb
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\obj\Debug\Vue_with_Single_File_Components.csproj.CopyComplete
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku\bin\Vue_with_Single_File_Components.dll.config
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\Vue_with_Single_File_Components.dll.config
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\Vue_with_Single_File_Components.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\Vue_with_Single_File_Components.pdb
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\csc.exe
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\csc.exe.config
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\csc.rsp
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\csi.exe
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\csi.exe.config
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\csi.rsp
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.AppContext.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Console.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Net.Http.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\vbc.exe
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\vbc.exe.config
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\vbc.rsp
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\Antlr3.Runtime.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\Newtonsoft.Json.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\System.Web.Optimization.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\WebGrease.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\System.Web.Optimization.xml
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\Newtonsoft.Json.xml
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\Antlr3.Runtime.pdb
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\obj\Debug\Vue_with_Single_File_Components.csprojAssemblyReference.cache
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\obj\Debug\Vue_with_Single_File_Components.csproj.CoreCompileInputs.cache
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\obj\Debug\Vue_with_Single_File_Components.csproj.CopyComplete
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\obj\Debug\Vue_with_Single_File_Components.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku.not running\obj\Debug\Vue_with_Single_File_Components.pdb
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\Vue_with_Single_File_Components.dll.config
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\Vue_with_Single_File_Components.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\Vue_with_Single_File_Components.pdb
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\csc.exe
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\csc.exe.config
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\csc.rsp
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\csi.exe
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\csi.exe.config
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\csi.rsp
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.AppContext.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Console.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Net.Http.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\vbc.exe
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\vbc.exe.config
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\vbc.rsp
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\Antlr3.Runtime.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\Newtonsoft.Json.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\System.Web.Optimization.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\WebGrease.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\System.Web.Optimization.xml
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\Newtonsoft.Json.xml
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\Antlr3.Runtime.pdb
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\obj\Debug\Vue_with_Single_File_Components.csprojAssemblyReference.cache
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\obj\Debug\Vue_with_Single_File_Components.csproj.CoreCompileInputs.cache
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\obj\Debug\Vue_with_Single_File_Components.csproj.CopyComplete
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\obj\Debug\Vue_with_Single_File_Components.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC categoriesnested treeview - heroku - pg\obj\Debug\Vue_with_Single_File_Components.pdb
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\Vue_with_Single_File_Components.dll.config
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\Vue_with_Single_File_Components.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\Vue_with_Single_File_Components.pdb
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\csc.exe
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\csc.exe.config
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\csc.rsp
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\csi.exe
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\csi.exe.config
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\csi.rsp
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.AppContext.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Console.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Net.Http.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\vbc.exe
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\vbc.exe.config
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\vbc.rsp
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\Antlr3.Runtime.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\Newtonsoft.Json.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\System.Web.Optimization.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\WebGrease.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\System.Web.Optimization.xml
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\Newtonsoft.Json.xml
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\Antlr3.Runtime.pdb
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\obj\Debug\Vue_with_Single_File_Components.csprojAssemblyReference.cache
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\obj\Debug\Vue_with_Single_File_Components.csproj.CoreCompileInputs.cache
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\obj\Debug\Vue_with_Single_File_Components.csproj.CopyComplete
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\obj\Debug\Vue_with_Single_File_Components.dll
+C:\Users\Maurice\Documents\Node.js\vue SFC skills overview - heroku\obj\Debug\Vue_with_Single_File_Components.pdb
